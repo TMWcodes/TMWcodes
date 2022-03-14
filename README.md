@@ -7,11 +7,10 @@ I am well versed in following an Agile workflow and keeping to a clean and preci
 
 My immediate goal is to continue learn and improve myself while living flexibly. 
 
-My passion is to help the environment and it is what I will strive to do in my professional and personal life until all pollution has been eliminated from this world.
+My passion is to help the environment and it is what I will strive to do in my  personal life and professional life.
 
 Skills: RAILS/ RUBY / PHASER3 / JS / HTML / CSS/ POSTGRESQL
 
-- 🔭 I’m currently working on this page. 
 
 
 
