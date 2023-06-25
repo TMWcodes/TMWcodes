@@ -2,7 +2,7 @@
 <h3 align="center"> Full Stack Software Engineer</h3>
 <h4 align="center">Makers Academy Graduate</h4>
 
-![Welcome to my Page](https://sweep.ac.uk/wp-content/uploads/green-banner.jpg)
+
 
  <a href="https://github.com/TMWcodes"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/jasonrowsell?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
  <a href="https://www.linkedin.com/in/tyrone-williams-ba4a0a219/">
